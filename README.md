@@ -1,1 +1,1 @@
-<h1><i class='fas fa-code' style='font-size:36px'></i><b>JavaScript Denemeleri</b></h1>
+<h1><b>JavaScript Denemeleri</b></h1>
